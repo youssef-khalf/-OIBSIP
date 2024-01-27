@@ -21,5 +21,31 @@ To run the notebook and explore the project:
 2. Install dependencies: `pip install -r requirements.txt`
 3. Open and run the Jupyter Notebook: `_OasisInfobyte iris classification .ipynb`
 
-## Project Structure
+Car Price Prediction Project
 
+Overview
+Car Price Prediction is a machine learning project aimed at predicting the price of used cars based on various features. The project involves training a machine learning model using a dataset containing information about different car models, their features, and historical pricing. This predictive model can be useful for both buyers and sellers in estimating the fair market value of a used car.
+
+Dataset
+The dataset used for this project can be downloaded here. It includes information such as the year of manufacture, selling price, present price, driven kilometers, owner details, and more.
+
+Project Structure
+The project is organized into the following sections:
+
+Data Exploration and Analysis: Understanding the dataset, visualizing relationships between variables, and identifying patterns.
+
+Data Preprocessing: Handling missing values, encoding categorical variables, and preparing the data for training.
+
+Model Training: Building and training machine learning models to predict car prices.
+
+Model Evaluation: Evaluating the performance of the trained models using appropriate metrics.
+
+Inference: Using the trained model to make predictions on new or unseen data.
+
+Libraries Used
+Pandas
+NumPy
+Scikit-Learn
+Matplotlib
+Seaborn
+Plotly
