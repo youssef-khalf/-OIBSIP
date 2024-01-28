@@ -49,3 +49,4 @@ Scikit-Learn
 Matplotlib
 Seaborn
 Plotly
+"This repository contains too code for a spam classification model implemented in Python using natural language processing techniques, including preprocessing, vectorization, and a Support Vector Machine (SVM) classifier. The model is trained on a dataset of labeled emails and can be used to classify new emails as spam or non-spam."
